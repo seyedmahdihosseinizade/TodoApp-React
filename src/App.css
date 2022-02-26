@@ -16,7 +16,7 @@
   flex-direction: column;
   align-items: center;
   width: 40rem;
-  height: 300px;
+  height: 100%;
   background-color: rgb(255, 255, 255);
   border: 1px solid rgb(109, 55, 55);
   border-radius: 5px;
